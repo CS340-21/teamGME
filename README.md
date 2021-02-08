@@ -1,2 +1,2 @@
 # TeamGME
-Horror game in Unity
+FPS horror puzzle game in Unity
