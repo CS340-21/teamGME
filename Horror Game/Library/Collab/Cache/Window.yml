@@ -13,14 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys:
-    - Assets/SampleScenes/Navmesh/CarAI.asset
-    - Assets/SampleScenes/Scenes/CharacterThirdPersonAI/NavMesh.asset
-    - Assets/Scene001.unity
-    - Assets/Standard Assets/Utility/SimpleActivatorMenu.cs
-    - ProjectSettings/ProjectSettings.asset
-    - 
-    m_Values: 010101010101
+    m_Keys: []
+    m_Values: 
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
