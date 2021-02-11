@@ -1,5 +1,5 @@
 # The Shadow
-## An immersing horror puzzle game experience
+## An immersing puzzle game experience with a bit of Horror
 
 ## Story
 
