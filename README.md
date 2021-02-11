@@ -1,2 +1,4 @@
 # TeamGME
-FPS horror puzzle game in Unity
+
+# The Shadow
+An immersing horror puzzle game experience
