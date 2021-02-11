@@ -50,10 +50,10 @@ Our web game will mantain a set schedule of development in order to provide the 
 
 Our biggest constrant thus far is finding the best way to collaboratively work on our project through unity. Merging branches through Github tends to lead to conflicts with the master branch. With that being said, right now our only option is to fetch and push individually so we do not overwrite each other's code. Hopefully, we will be able to combat this problem and find a solution soon
 
-## RESOURCES
+## Resources
 
 YouTube is our best friend throughout this experience given the lack of knowledge in Unity and C#. There is a full series that we plan to follow that will guide us through the core essentials in a horror fps game. We plan to add our own twist of course.
 
-## DESCOPING
+## Descoping
 
 If we cannot finish the full functionality of the game, it will still be an enormous learning process for every single one of us. Understanding and utlizing collaborative workspaces like github is essential within our field. Also, learning game development is something that is not tradiotionally taught within computer science programs and will be a nice skill to add to our repetoire. Altogether, even if we cannot complete our game, we still should be able to provide an immersing horror game experience for the user that can continue to be built upon after the semester.
