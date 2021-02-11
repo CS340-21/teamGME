@@ -19,6 +19,7 @@ to escape the labyrinth.
 - Object interactions
 - Player Combat
 
+
 ## Screenshots
 
 <p align="left"><img src="https://i.imgur.com/F9b21DJ.png" width="500" /></p>
