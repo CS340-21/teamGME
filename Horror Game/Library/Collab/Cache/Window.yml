@@ -16,6 +16,8 @@ MonoBehaviour:
     m_Keys:
     - Assets/Materials/fire001.mat
     - Assets/Materials/fire001.mat.meta
+    - Assets/Objects/Mushroom/Materials/GRIB.mat
+    - Assets/Objects/Mushroom/Materials/GRIB.mat.meta
     - Assets/Objects/Torch.meta
     - Assets/Objects/Torch/Materials.meta
     - Assets/Objects/Torch/Materials/Metal_A.mat
@@ -49,7 +51,7 @@ MonoBehaviour:
     - Assets/Textures/fire001.jpg
     - Assets/Textures/fire001.jpg.meta
     - 
-    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
