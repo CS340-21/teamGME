@@ -15,6 +15,7 @@ Overall, we wanted to find a new concept and learn how to create something compl
 ## II. Customer Value
 
 Our project will be targeting gamers as the main audience. People look to games primarily as a source of entertainment because they can be challenging and creative. The underlying problem would be to design something that could pose a challenge or be an interesting experience. Our project is a first-person horror game, and these are not uncommon however it will be free and easy to hop straight into.
+
 We plan to create a game full of interesting environments, puzzles, and enemies. We also hope that the game will be easy to play whenever without a large time commitment and be re-playable. We could gather feedback through logging time and customer feedback surveys.
 
 ## III. Technology
@@ -23,7 +24,7 @@ Our software will allow the user to control a character through a dungeon, while
 
 ## IV. Team
 
-This is almost everyone's first experience with Unity and C# on our Team. Although that is the case, there is a plethora of resources that have already helped us understand the foundations of the development platform. We will continuosly be developing the game as a whole, but each member will be responsible for specific attributes in order to perfect the visuals and functionality of our game
+This is almost everyone's first experience with Unity and C# on our Team. Although that is the case, there is a plethora of resources that have already helped us understand the foundations of the development platform. We will continuosly be developing the game as a whole, but each member will be responsible for specific attributes in order to perfect the visuals and functionality of our game.
 
 - Parker Sherrill: Project lead
 - Austin Maryanski: Textures/atmosphere/visuals
@@ -32,11 +33,11 @@ This is almost everyone's first experience with Unity and C# on our Team. Althou
 
 ## V. Project Management
 
-Our web game will mantain a set schedule of development in order to provide the user with a fully funcitonal, immersing horror game experience at the end of the semester. We will meet every Tuesday over zoom to gauge development, review bugs, and reconnect on necessary future steps. Below is the schedule we plan to follow in order to establish our finished FPS desktop game.
+Our desktop game will mantain a set schedule of development in order to provide the user with a fully functional, immersing horror game experience at the end of the semester. We will meet every Tuesday over zoom to gauge development, review bugs, and reconnect on necessary future steps. Below is the schedule we plan to follow in order to establish our finished FPS desktop game.
 
 | Date              | Activity                                                          | Sprint Goals                                                                   |
 | ----------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Thursday, Feb. 18 | Development begins: Start creating the environment for the player | Establish first level, eerie visuals effects, and player movement              |
+| Thursday, Feb. 18 | Ture development begins: Start creating the environment for the player | Establish first level, eerie visuals effects, and player movement              |
 | Friday, Feb. 26   | Begin second sprint                                               | Add enemies and puzzle aspect, weapons for user, and jump-scares               |
 | Thursday, Mar. 4  | Submit iteration 1 status report                                  | ...                                                                            |
 | Friday, Mar. 12   | Begin third sprint                                                | start adding more levels and detail to environment, add load/save/menu options |
