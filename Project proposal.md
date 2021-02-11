@@ -1,4 +1,4 @@
-# A Proposal for a Horror escape game
+# Proposal for a horror escape game
 
 Parker Sherrill, Austin Maryanski, Emmanuel Chavez, Jacob Moore
 
