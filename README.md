@@ -1,4 +1,4 @@
-# The Shadow
+# The Shadows
 - An immersing puzzle game experience with a bit of Horror
 
 ## Story
@@ -8,7 +8,7 @@ There is only one way to escape- complete all the mysterious puzzles scattered
 throughout the environment. Only then will the user recieve a key and be permitted
 to escape the labyrinth.
 
-- Beware, the shadow is not what it seems.
+- Beware, the shadows are not what they seem.
 
 
 ## Features
