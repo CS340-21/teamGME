@@ -677,3 +677,19 @@ System memory in use after: 174.7 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1744.
 Total: 2.021686 ms (FindLiveObjects: 0.186964 ms CreateObjectMapping: 0.084242 ms MarkObjects: 1.283357 ms  DeleteObjects: 0.466226 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 1407.482474 seconds.
+  path: Assets/Animations/torch_anim_1.anim
+  artifactKey: Guid(746a529f522e7434ab8bc29c2d55be87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/torch_anim_1.anim using Guid(746a529f522e7434ab8bc29c2d55be87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76192d77c33de298820e6409adc19c9') in 0.013044 seconds
+  Import took 0.015420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.387307 seconds.
+  path: Assets/Animations/FirstDoorOpenAnim.anim
+  artifactKey: Guid(69aca287e980842f4b7fca68b082b2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/FirstDoorOpenAnim.anim using Guid(69aca287e980842f4b7fca68b082b2e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69d3bfff979fc1925d66a66d96b57733') in 0.004229 seconds
+  Import took 0.006509 seconds .
+
