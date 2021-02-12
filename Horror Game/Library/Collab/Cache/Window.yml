@@ -25,6 +25,10 @@ MonoBehaviour:
     - Assets/Animations/torch illuminate.controller.meta
     - Assets/Animations/torch_anim_1.anim
     - Assets/Animations/torch_anim_1.anim.meta
+    - Assets/Audio.meta
+    - Assets/Audio/CreakyDoor.mp3
+    - Assets/Audio/CreakyDoor.mp3.meta
+    - Assets/Audio/Effects.meta
     - Assets/Materials/fire001.mat
     - Assets/Materials/fire001.mat.meta
     - Assets/Objects/Door.meta
@@ -80,12 +84,20 @@ MonoBehaviour:
     - Assets/PreFabs/Torch 1.prefab
     - Assets/PreFabs/Torch 1.prefab.meta
     - Assets/Scene001.unity
+    - Assets/Scripts.meta
+    - Assets/Scripts/DoorCellOpen.cs
+    - Assets/Scripts/DoorCellOpen.cs.meta
+    - Assets/Scripts/PlayerCasting.cs
+    - Assets/Scripts/PlayerCasting.cs.meta
+    - Assets/Scripts/Playercasting.cs
+    - Assets/Scripts/Playercasting.cs.meta
+    - Assets/Scripts/torchflicker.cs
+    - Assets/Scripts/torchflicker.cs.meta
     - Assets/Textures/fire001.jpg
     - Assets/Textures/fire001.jpg.meta
-    - Assets/torchflicker.cs
-    - Assets/torchflicker.cs.meta
+    - ProjectSettings/InputManager.asset
     - 
-    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
