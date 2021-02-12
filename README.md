@@ -22,4 +22,4 @@ to escape the labyrinth.
 
 ## Screenshots
 
-<p align="left"><img src="https://i.imgur.com/F9b21DJ.png" width="500" /></p>
+<p align="left"><img src="https://i.imgur.com/Za9rGl6.png" width="500" /></p>
