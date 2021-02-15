@@ -25,7 +25,7 @@ public class Opening_001 : MonoBehaviour
         TextBox.GetComponent<Text>().text = "I need to get out of here...";
         yield return new WaitForSeconds(2);
         TextBox.GetComponent<Text>().text = "";
-        
+
     }
 
 }
