@@ -89,15 +89,13 @@ MonoBehaviour:
     - Assets/Scripts/DoorCellOpen.cs.meta
     - Assets/Scripts/PlayerCasting.cs
     - Assets/Scripts/PlayerCasting.cs.meta
-    - Assets/Scripts/Playercasting.cs
-    - Assets/Scripts/Playercasting.cs.meta
     - Assets/Scripts/torchflicker.cs
     - Assets/Scripts/torchflicker.cs.meta
     - Assets/Textures/fire001.jpg
     - Assets/Textures/fire001.jpg.meta
     - ProjectSettings/InputManager.asset
     - 
-    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
