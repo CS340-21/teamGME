@@ -17,6 +17,10 @@ MonoBehaviour:
     - Assets/Animations.meta
     - Assets/Animations/Door.controller
     - Assets/Animations/Door.controller.meta
+    - Assets/Animations/FadeScreenIn.anim
+    - Assets/Animations/FadeScreenIn.anim.meta
+    - Assets/Animations/FadeScreenIn.controller
+    - Assets/Animations/FadeScreenIn.controller.meta
     - Assets/Animations/FirstDoorOpenAnim.anim
     - Assets/Animations/FirstDoorOpenAnim.anim.meta
     - Assets/Animations/doorhinge.controller
@@ -89,13 +93,16 @@ MonoBehaviour:
     - Assets/Scripts/DoorCellOpen.cs.meta
     - Assets/Scripts/PlayerCasting.cs
     - Assets/Scripts/PlayerCasting.cs.meta
+    - Assets/Scripts/Sequences.meta
+    - Assets/Scripts/Sequences/Opening_001.cs
+    - Assets/Scripts/Sequences/Opening_001.cs.meta
     - Assets/Scripts/torchflicker.cs
     - Assets/Scripts/torchflicker.cs.meta
     - Assets/Textures/fire001.jpg
     - Assets/Textures/fire001.jpg.meta
     - ProjectSettings/InputManager.asset
     - 
-    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
