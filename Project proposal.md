@@ -1,6 +1,6 @@
 # Proposal for a horror escape game
 
-Parker Sherrill, Austin Maryanski, Emmanuel Chavez, Jacob Moore
+Parker Sherrill, Austin Maryanski, Emmanuel Chavez, Jacob Moore, Richard Swan
 
 ## I. Introduction
 
