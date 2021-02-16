@@ -13,8 +13,96 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - Assets/Animations.meta
+    - Assets/Animations/Door.controller
+    - Assets/Animations/Door.controller.meta
+    - Assets/Animations/FadeScreenIn.anim
+    - Assets/Animations/FadeScreenIn.anim.meta
+    - Assets/Animations/FadeScreenIn.controller
+    - Assets/Animations/FadeScreenIn.controller.meta
+    - Assets/Animations/FirstDoorOpenAnim.anim
+    - Assets/Animations/FirstDoorOpenAnim.anim.meta
+    - Assets/Animations/doorhinge.controller
+    - Assets/Animations/doorhinge.controller.meta
+    - Assets/Animations/torch illuminate.controller
+    - Assets/Animations/torch illuminate.controller.meta
+    - Assets/Animations/torch_anim_1.anim
+    - Assets/Animations/torch_anim_1.anim.meta
+    - Assets/Audio.meta
+    - Assets/Audio/CreakyDoor.mp3
+    - Assets/Audio/CreakyDoor.mp3.meta
+    - Assets/Audio/Effects.meta
+    - Assets/Materials/fire001.mat
+    - Assets/Materials/fire001.mat.meta
+    - Assets/Objects/Door.meta
+    - Assets/Objects/Door/Door.fbx
+    - Assets/Objects/Door/Door.fbx.meta
+    - Assets/Objects/Door/Door.jpg
+    - Assets/Objects/Door/Door.jpg.meta
+    - Assets/Objects/Door/DoorFrame.jpg
+    - Assets/Objects/Door/DoorFrame.jpg.meta
+    - Assets/Objects/Door/Materials.meta
+    - Assets/Objects/Door/Materials/Door.mat
+    - Assets/Objects/Door/Materials/Door.mat.meta
+    - Assets/Objects/Door/Materials/DoorFrame.mat
+    - Assets/Objects/Door/Materials/DoorFrame.mat.meta
+    - Assets/Objects/Mushroom/Materials/GRIB.mat
+    - Assets/Objects/Mushroom/Materials/GRIB.mat.meta
+    - Assets/Objects/Torch.meta
+    - Assets/Objects/Torch/Materials.meta
+    - Assets/Objects/Torch/Materials/Metal_A.mat
+    - Assets/Objects/Torch/Materials/Metal_A.mat.meta
+    - Assets/Objects/Torch/Meshes.meta
+    - Assets/Objects/Torch/Meshes/Materials.meta
+    - Assets/Objects/Torch/Meshes/Materials/M_Black.mat
+    - Assets/Objects/Torch/Meshes/Materials/M_Black.mat.meta
+    - Assets/Objects/Torch/Meshes/Materials/Metal_B.mat
+    - Assets/Objects/Torch/Meshes/Materials/Metal_B.mat.meta
+    - Assets/Objects/Torch/Meshes/Materials/Stone_A.mat
+    - Assets/Objects/Torch/Meshes/Materials/Stone_A.mat.meta
+    - Assets/Objects/Torch/Meshes/Materials/Wax_A.mat
+    - Assets/Objects/Torch/Meshes/Materials/Wax_A.mat.meta
+    - Assets/Objects/Torch/Meshes/Materials/Wood_A.mat
+    - Assets/Objects/Torch/Meshes/Materials/Wood_A.mat.meta
+    - Assets/Objects/Torch/Meshes/Materials/Wood_B.mat
+    - Assets/Objects/Torch/Meshes/Materials/Wood_B.mat.meta
+    - Assets/Objects/Torch/Meshes/Materials/Wood_C.mat
+    - Assets/Objects/Torch/Meshes/Materials/Wood_C.mat.meta
+    - Assets/Objects/Torch/Meshes/Props.fbx
+    - Assets/Objects/Torch/Meshes/Props.fbx.meta
+    - Assets/Objects/Torch/Textures.meta
+    - Assets/Objects/Torch/Textures/Metal_A.png
+    - Assets/Objects/Torch/Textures/Metal_A.png.meta
+    - Assets/Objects/Torch/Textures/Metal_A_NRM.png
+    - Assets/Objects/Torch/Textures/Metal_A_NRM.png.meta
+    - Assets/Objects/Torch/Torch 1.prefab
+    - Assets/Objects/Torch/Torch 1.prefab.meta
+    - Assets/Objects/Torch/torch flame.prefab
+    - Assets/Objects/Torch/torch flame.prefab.meta
+    - Assets/Objects/Torch/torch illuminate.prefab
+    - Assets/Objects/Torch/torch illuminate.prefab.meta
+    - Assets/PreFabs.meta
+    - Assets/PreFabs/Mushroom.prefab
+    - Assets/PreFabs/Mushroom.prefab.meta
+    - Assets/PreFabs/Torch 1.prefab
+    - Assets/PreFabs/Torch 1.prefab.meta
+    - Assets/Scene001.unity
+    - Assets/Scripts.meta
+    - Assets/Scripts/DoorCellOpen.cs
+    - Assets/Scripts/DoorCellOpen.cs.meta
+    - Assets/Scripts/PlayerCasting.cs
+    - Assets/Scripts/PlayerCasting.cs.meta
+    - Assets/Scripts/Sequences.meta
+    - Assets/Scripts/Sequences/Opening_001.cs
+    - Assets/Scripts/Sequences/Opening_001.cs.meta
+    - Assets/Scripts/torchflicker.cs
+    - Assets/Scripts/torchflicker.cs.meta
+    - Assets/Textures/fire001.jpg
+    - Assets/Textures/fire001.jpg.meta
+    - ProjectSettings/InputManager.asset
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
