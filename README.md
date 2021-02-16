@@ -5,8 +5,7 @@
 
 The player spawns in a room inside a deep labyrinth flooded with monsters.
 There is only one way to escape- complete all the mysterious puzzles scattered
-throughout the environment. Only then will the user recieve a key and be permitted
-to escape the labyrinth.
+throughout the environment. Only then will the user recieve a key and be permitted to escape the labyrinth.
 
 - Beware, the shadows are not what they seem.
 
