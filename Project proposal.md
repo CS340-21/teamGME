@@ -30,6 +30,7 @@ This is almost everyone's first experience with Unity and C# on our Team. Althou
 - Austin Maryanski: Textures/atmosphere/visuals
 - Jacob Moore: Level design
 - Emmanuel Chavez: Game logic
+- Richard Swan: Project Manager
 
 ## V. Project Management
 
