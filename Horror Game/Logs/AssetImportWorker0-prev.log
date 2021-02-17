@@ -15,11 +15,11 @@ C:/Users/Jacob/Downloads/CS340/Horror Game
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-50910
+61260
 Successfully changed project path to: C:/Users/Jacob/Downloads/CS340/Horror Game
 C:/Users/Jacob/Downloads/CS340/Horror Game
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 88.70 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 130.37 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.2.2f1 (068178b99f32)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
@@ -35,90 +35,23 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56800
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
-Registered in 0.006009 seconds.
+Registered in 0.005693 seconds.
 Native extension for LinuxStandalone target not found
 Native extension for WindowsStandalone target not found
 Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 50.41 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 49.39 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.173 seconds
+- Completed reload, in 15.772 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001754 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for LinuxStandalone target not found
-Native extension for WindowsStandalone target not found
-Native extension for OSXStandalone target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.349 seconds
-Platform modules already initialized, skipping
-========================================================================
-Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.18 seconds
-Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1233 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 68.9 MB.
-System memory in use after: 68.6 MB.
-
-Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 1682.
-Total: 3.516300 ms (FindLiveObjects: 0.233500 ms CreateObjectMapping: 0.076400 ms MarkObjects: 2.708600 ms  DeleteObjects: 0.495500 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Materials
-  artifactKey: Guid(c05a6218f53f4431abe4e25b6886cb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials using Guid(c05a6218f53f4431abe4e25b6886cb1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abecf07d745bea52ad3a83d7fec77b9a') in 0.035555 seconds
-  Import took 0.040155 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.021046 seconds.
-  path: Assets/Materials/Wall001.mat
-  artifactKey: Guid(fe8fce0fe60384ee89a457affd2ca9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Wall001.mat using Guid(fe8fce0fe60384ee89a457affd2ca9db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6114c9be05762c55e3d70ac076c6ec79') in 0.391598 seconds
-  Import took 0.397581 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000501 seconds.
-  path: Assets/Materials/fire001.mat
-  artifactKey: Guid(a82630f4a9947446987df675066ecb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/fire001.mat using Guid(a82630f4a9947446987df675066ecb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a729e8f63ce7702c9d2e3bccfcb2fec') in 0.108827 seconds
-  Import took 0.112046 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000530 seconds.
-  path: Assets/Materials/Rock001.mat
-  artifactKey: Guid(728347426049e45f5b8e037f7334e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Materials/Rock001.mat using Guid(728347426049e45f5b8e037f7334e8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2096dc9efba1faae1373fbce39eafb9c') in 0.047061 seconds
-  Import took 0.050738 seconds .
-
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 2.48 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 47.1 MB.
-System memory in use after: 46.9 MB.
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1722.
-Total: 8.071400 ms (FindLiveObjects: 1.126300 ms CreateObjectMapping: 0.471900 ms MarkObjects: 5.775200 ms  DeleteObjects: 0.686900 ms)
-
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+Registered in 0.001660 seconds.
