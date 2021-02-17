@@ -14,9 +14,9 @@ Overall, we wanted to find a new concept and learn how to create something compl
 
 ## II. Customer Value
 
-Our project will be targeting gamers as the main audience. People look to games primarily as a source of entertainment because they can be challenging and creative. The underlying problem would be to design something that could pose a challenge or be an interesting experience. Our project is a first-person horror game, and these are not uncommon however it will be free and easy to hop straight into.
+Our project will be targeting gamers as the main audience. People look to games primarily as a source of entertainment because they can be challenging and allow players to use their imaginations and creativity. The underlying problem would be to design something that could pose a challenge or be an interesting experience. Our project is a first-person horror game, and these are not uncommon however, it will be free and easy to hop straight into. The audience for horror games choose them because of the dark environments and plenty of thrills and scares. We hope that our game will stand out among others in the field because of the world we build and by providing an immersive and engaging horror experience.
 
-We plan to create a game full of interesting environments, puzzles, and enemies. We also hope that the game will be easy to play whenever without a large time commitment and be re-playable. We could gather feedback through logging time and customer feedback surveys.
+We plan to create a game full of interesting environments, puzzles, and enemies. We also hope that the game will be easy to play whenever, without a large time commitment and be re-playable. Measures of success include players' enjoyment, immersion into the game world and ease of use. We could gather feedback through logging time played and customer feedback surveys.
 
 ## III. Technology
 
