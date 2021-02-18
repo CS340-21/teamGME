@@ -40,12 +40,12 @@ Our desktop game will mantain a set schedule of development in order to provide 
 
 | Date              | Activity                                                          | Sprint Goals                                                                   |
 | ----------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Thursday, Feb. 18 | Finish first sprint, submit proposal document                    | Establish first level, eerie environment & visuals effects, and player movement              |
-| Friday, Feb. 26   | Begin second sprint                                               | Add enemies and puzzle aspect, weapons for user, and jump-scares               |
+| Thursday, Feb. 18 | Finish sprint 0, submit proposal document                    | Establish first level, eerie environment & visuals effects, and player movement              |
+| Friday, Feb. 26   | Begin first sprint                                               | Add enemies and puzzle aspect, weapons for user, and jump-scares               |
 | Thursday, Mar. 4  | Submit iteration 1 status report                                  | ...                                                                            |
-| Friday, Mar. 12   | Begin third sprint                                                | start adding more levels and detail to environment, add load/save/menu options |
+| Friday, Mar. 12   | Begin second sprint                                                | start adding more levels and detail to environment, add load/save/menu options |
 | Thursday, Mar. 18 | Submit iteration 2 status report                                  | ...                                                                            |
-| Friday, Mar. 26   | Begin fourth sprint                                               | Create cutscenes and graphics throughout the game                              |
+| Friday, Mar. 26   | Begin third sprint                                               | Create cutscenes and graphics throughout the game                              |
 | Thursday, Apr. 1  | Submit iteration 3 status report                                  | ...                                                                            |
 | Friday, Apr. 9    | Begin final sprint                                                | Deploy to friends for testing, debug, add improvements                         |
 | Thursday, Apr. 15 | Submit report and present the final product                       | ...                                                                            |
