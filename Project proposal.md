@@ -1,4 +1,5 @@
-# The Shadows: a horror escape game proposal
+# The Shadows
+## Proposal for a horror escape game
 
 Parker Sherrill, Austin Maryanski, Emmanuel Chavez, Jacob Moore, Richard Swan
 
