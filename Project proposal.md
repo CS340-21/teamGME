@@ -39,7 +39,7 @@ Our desktop game will mantain a set schedule of development in order to provide 
 
 | Date              | Activity                                                          | Sprint Goals                                                                   |
 | ----------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Thursday, Feb. 18 | Ture development begins: Start creating the environment for the player | Establish first level, eerie visuals effects, and player movement              |
+| Thursday, Feb. 18 | Finish first sprint , submit proposal document                    | Establish first level, eerie environment & visuals effects, and player movement              |
 | Friday, Feb. 26   | Begin second sprint                                               | Add enemies and puzzle aspect, weapons for user, and jump-scares               |
 | Thursday, Mar. 4  | Submit iteration 1 status report                                  | ...                                                                            |
 | Friday, Mar. 12   | Begin third sprint                                                | start adding more levels and detail to environment, add load/save/menu options |
