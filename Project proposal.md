@@ -20,7 +20,8 @@ We plan to create a game full of interesting environments, puzzles, and enemies.
 
 ## III. Technology
 
-Our software will allow the user to control a character through a dungeon, while simultaneously having to solve puzzles and kill enemies to survive. There will possibly be different characters to pick from with different skills and proficiencies. The main components of the game will be all the objects that the player will interact with such as the world, puzzles and enemies. We will have to animate the objects/enemies and make sure that they are running smoothly without making the game too laggy. The minimal system would be to create the enemies first so it could be a survival game at the base, and then create the puzzles/challenges to increase the difficulty of the game. The possible enhancements would be to make the graphics/animations better and to add difficulty settings for players who want more of a challenge. The testing of the game will most likely be by us and friends who want to test it without pre-existing knowledge of how the game works. The tools we will use will all be from unity as it has many pre-build objects and functions to make pretty much any kind of game that you would want. Architecture is still unknown but we will work on making a scripts to manage the puzzles, enemy behaviors, hazards, and so on.
+Our software will allow the user to control a character through a dungeon, while simultaneously having to solve puzzles and kill enemies to survive. There will possibly be different characters to pick from with different skills and proficiencies. The main components of the game will be all the objects that the player will interact with such as the world, puzzles and enemies. We will have to animate the objects/enemies and make sure that they are running smoothly without making the game too laggy. The minimal system would be to create the enemies first so it could be a survival game at the base, and then create the puzzles/challenges to increase the difficulty of the game. The possible enhancements would be to make the graphics/animations better and to add difficulty settings for players who want more of a challenge. The testing of the game will most likely be by us and friends who want to test it without pre-existing knowledge of how the game works. The tools we will use will all be from unity as it has many pre-built objects and functions to make pretty much any kind of game that you would want.
+![bd](https://user-images.githubusercontent.com/48300985/108359116-922b4900-71bd-11eb-817f-2e6c61979ac8.png)
 
 ## IV. Team
 
@@ -29,7 +30,7 @@ This is almost everyone's first experience with Unity and C# on our Team. Althou
 - Parker Sherrill: Project lead
 - Austin Maryanski: Textures/atmosphere/visuals
 - Jacob Moore: Level design
-- Emmanuel Chavez: Game logic
+- Emanuel Chavez: Game logic
 - Richard Swan: Project Manager
 
 ## V. Project Management
