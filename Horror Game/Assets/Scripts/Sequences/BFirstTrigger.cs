@@ -16,9 +16,10 @@ public class BFirstTrigger : MonoBehaviour
     }
     IEnumerator ScenePlayer() {
         TextBox.GetComponent<Text>().text = "Is that a weapon over there?";
-        yield return new WaitForSeconds(2.5f);
+        yield return new WaitForSeconds(1.0f);
         TextBox.GetComponent<Text>().text = "";
         ThePlayer.GetComponent<FirstPersonController>().enabled = true;
+        this.GetComponent<BoxCollider>().enabled = false;
         TheMarker.SetActive(true);
     
     }
