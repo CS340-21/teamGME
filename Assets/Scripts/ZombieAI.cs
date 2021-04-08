@@ -13,6 +13,7 @@ public class ZombieAI : MonoBehaviour
     public AudioSource hurtSound2;
     public AudioSource hurtSound3;
     public int hurtGen;
+    public GameObject theFlash;
 
     // Update is called once per frame
     void Update()
@@ -39,7 +40,7 @@ public class ZombieAI : MonoBehaviour
         }
         IEnumerator InflictDamage() {
             isAttacking = true;
-            yield return new WaitForSeconds(1.1f);
+            yield return new WaitForSeconds(0.1f);
             GlobalHealth.currentHealth -= 5;
             hurtGen = Random.Range(1,4);
         if (hurtGen == 1) {
@@ -53,7 +54,10 @@ public class ZombieAI : MonoBehaviour
         {
             hurtSound3.Play();
         }
-        yield return new WaitForSeconds(0.2f);
+        theFlash.SetActive(true);
+        yield return new WaitForSeconds(0.6f);
+        theFlash.SetActive(false);
+        yield return new WaitForSeconds(0.35f);
             isAttacking = false;
 
         }
