@@ -8,6 +8,7 @@ public class BZJumpTrigger : MonoBehaviour
     public AudioSource DoorJumpMusic;
     public GameObject TheZombie;
     public GameObject TheDoor;
+    public AudioSource AmbMusic;
 
     void OnTriggerEnter() {
         GetComponent<BoxCollider>().enabled = false;
@@ -19,6 +20,7 @@ public class BZJumpTrigger : MonoBehaviour
 
     IEnumerator PlayJumpMusic() {
         yield return new WaitForSeconds(0.4f);
+        AmbMusic.Stop();
         DoorJumpMusic.Play();
     }
 }
