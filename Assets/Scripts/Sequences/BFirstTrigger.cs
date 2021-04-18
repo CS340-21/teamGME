@@ -9,13 +9,15 @@ public class BFirstTrigger : MonoBehaviour
     public GameObject ThePlayer;
     public GameObject TextBox;
     public GameObject TheMarker;
+    public AudioSource line03;
 
     void OnTriggerEnter() { 
         ThePlayer.GetComponent<FirstPersonController>() .enabled = false;
         StartCoroutine(ScenePlayer());
     }
     IEnumerator ScenePlayer() {
-        TextBox.GetComponent<Text>().text = "Is that a weapon over there?";
+        TextBox.GetComponent<Text>().text = "Looks like there's a weapon on that table.";
+        line03.Play();
         yield return new WaitForSeconds(1.0f);
         TextBox.GetComponent<Text>().text = "";
         ThePlayer.GetComponent<FirstPersonController>().enabled = true;
