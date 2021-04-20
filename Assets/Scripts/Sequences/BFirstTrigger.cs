@@ -17,7 +17,7 @@ public class BFirstTrigger : MonoBehaviour
     }
     IEnumerator ScenePlayer() {
         TextBox.GetComponent<Text>().text = "Looks like there's a weapon on that table.";
-        line03.Play();
+        //line03.Play();
         yield return new WaitForSeconds(1.0f);
         TextBox.GetComponent<Text>().text = "";
         ThePlayer.GetComponent<FirstPersonController>().enabled = true;

@@ -24,13 +24,13 @@ public class Opening_001 : MonoBehaviour
         yield return new WaitForSeconds(1.5f);
         FadeScreenIn.SetActive(false);
         TextBox.GetComponent<Text>().text = "... where am I?";
-        line01.Play();
+        //line01.Play();
         yield return new WaitForSeconds(2);
         TextBox.GetComponent<Text>().text = "";
         yield return new WaitForSeconds(0.5f);
         ThePlayer.GetComponent<FirstPersonController>().enabled = true;
         TextBox.GetComponent<Text>().text = "I need to get out of here...";
-        line02.Play();
+        //line02.Play();
         yield return new WaitForSeconds(2);
         TextBox.GetComponent<Text>().text = "";
 
