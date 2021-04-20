@@ -64,4 +64,4 @@ YouTube is our best friend throughout this experience given the lack of knowledg
 
 If we cannot finish the full functionality of the game, it will still be an enormous learning process for every single one of us. Understanding and utlizing collaborative workspaces like github is essential within our field. Also, learning game development is something that is not tradiotionally taught within computer science programs and will be a nice skill to add to our repetoire. Altogether, even if we cannot complete our game, we still should be able to provide an immersing horror game experience for the user that can continue to be built upon after the semester.
 
-## Reflection
+## VI. Reflection
