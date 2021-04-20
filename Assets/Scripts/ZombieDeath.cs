@@ -22,7 +22,7 @@ public class ZombieDeath : MonoBehaviour
             TheEnemy.GetComponent<Animation>().Stop("Z_Walk_InPlace");
             TheEnemy.GetComponent<Animation>().Play("Z_FallingBack");
             JumpscareMusic.Stop();
-            AmbMusic.Play();
+            //AmbMusic.Play();
         }
     }
 }

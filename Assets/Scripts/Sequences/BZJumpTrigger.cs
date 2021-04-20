@@ -20,7 +20,7 @@ public class BZJumpTrigger : MonoBehaviour
 
     IEnumerator PlayJumpMusic() {
         yield return new WaitForSeconds(0.4f);
-        AmbMusic.Stop();
+        //AmbMusic.Stop();
         DoorJumpMusic.Play();
     }
 }
