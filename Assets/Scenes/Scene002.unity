@@ -1336,6 +1336,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2095552554}
     - target: {fileID: 7647609608819438192, guid: 94691d61d3a205040979aebefb29cf8b, type: 3}
+      propertyPath: enemySpeed
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7647609608819438192, guid: 94691d61d3a205040979aebefb29cf8b, type: 3}
       propertyPath: hurtSound1
       value: 
       objectReference: {fileID: 2015524564}
@@ -2043,6 +2047,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2095552554}
     - target: {fileID: 7647609608819438192, guid: 94691d61d3a205040979aebefb29cf8b, type: 3}
+      propertyPath: enemySpeed
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7647609608819438192, guid: 94691d61d3a205040979aebefb29cf8b, type: 3}
       propertyPath: hurtSound1
       value: 
       objectReference: {fileID: 2015524564}
@@ -2687,6 +2695,10 @@ PrefabInstance:
       propertyPath: thePlayer
       value: 
       objectReference: {fileID: 2095552554}
+    - target: {fileID: 7647609608819438192, guid: 94691d61d3a205040979aebefb29cf8b, type: 3}
+      propertyPath: enemySpeed
+      value: 0.01
+      objectReference: {fileID: 0}
     - target: {fileID: 7647609608819438192, guid: 94691d61d3a205040979aebefb29cf8b, type: 3}
       propertyPath: hurtSound1
       value: 
